@@ -24,7 +24,7 @@
           Hello there! I am Carolina, a second-year student in Multiplatform Application Development (DAM) from Spain. I am passionate about technology and have a strong interest in programming and software development, though in my free time, I’m quite the opposite: a pianist, writer, and artist! I am a multifaceted, creative, and highly curious person.
         </p>
         <p align="justify">
-          - 🎓 Honorable mention with an average of 10 in secondary school.<br>
+          - 🎓 Highest Honors with an average of 10 in secondary school.<br>
           - 🧠 Polyglot: I speak Spanish, English, Catalan, German, and French.<br>
           - 🏆 I won all the literary contests in my secondary school.
         </p>
@@ -60,10 +60,8 @@
         </blockquote>
       </td>
     </tr>
-  </table>
-
-  <br>
-
+  </table><br />
+  
   <!-- PIE DE PÁGINA ESTILO SELLO / FIRMA -->
   <div align="center">
   <hr>
