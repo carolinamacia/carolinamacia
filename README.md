@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- ENCABEZADO -->
+  <!-- Header -->
   <table width="100%" border="1" cellpadding="12" cellspacing="0">
     <tr>
       <td align="center">
@@ -14,7 +14,7 @@
 
   <br>
 
-  <!-- CARTA DE PRESENTACIÓN -->
+  <!-- My presentation -->
   <table width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td width="65%" valign="top">
@@ -40,11 +40,26 @@
 
 ## 🛠️ 𝐌𝐲 𝐬𝐤𝐢𝐥𝐥𝐬
 ### 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
 ### 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,spring,maven,gitlab,git,github,hibernate)](https://skillicons.dev)
-  <!-- OBRAS DESTACADAS -->
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/SMTP%2FTLS-4285F4?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-F38020?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+  <!-- Featured Project -->
   <table width="100%" border="0" cellpadding="8" cellspacing="0">
     <tr>
       <td>
