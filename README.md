@@ -32,8 +32,9 @@
          <h3>✉️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭.</h3>
         <hr>
         <p align="justify">
-         <a href="mailto:carolina.elsa.macia@gmail.com"> 💬 carolina.elsa.macia@gmail.com</a><br />
+         <a href="https://canva.link/kbp2hzza3s55nc7"> 📋 My CV</a><br />
          <a href="https://www.linkedin.com/in/carolina-maci%C3%A0-6623333b0/"> 💼 LinkedIn: Carolina Macià</a><br />
+         <a href="mailto:carolina.elsa.macia@gmail.com"> 💬 carolina.elsa.macia@gmail.com</a><br />
         </p><br>
       </td>    
   </table>
@@ -95,6 +96,6 @@
   <div align="center">
   <hr>
   <p>
-    <sub>— THANK YOU FOR READING! —</sub>
+    <sub>— 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐫𝐞𝐚𝐝𝐢𝐧𝐠! —</sub>
   </p>
   </div>
