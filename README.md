@@ -88,7 +88,8 @@
     <tr>
       <td>
         <blockquote>
-          <strong><a href="https://gitlab.com/grup47650143/projecte1">❖ Class Project: Vehicle Rental ERP</a></strong> — <code>[Java / Spring / Thymeleaf/ HTML / CSS]</code><br>
+          <strong><a href="https://gitlab.com/grup47650143/projecte1">❖ [GitLab] Class Project: Vehicle Rental ERP</a></strong> — <code>[Java / Spring / Thymeleaf/ HTML / CSS]</code><br>
+          <strong><a href="https://github.com/carolinamacia/projecte1nothingan.git">❖ [GitHub] Class Project: Vehicle Rental ERP</a></strong> — <code>[Java / Spring / Thymeleaf/ HTML / CSS]</code><br>
           <em>Nothingan Pri is a web application developed with my team using technologies such as Spring Boot, Thymeleaf, and Spring Security for the comprehensive management of a vehicle rental company.</em>
         </blockquote>
       </td>
