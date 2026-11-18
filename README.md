@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬
+### 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬, 𝐝𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬, 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐭𝐨𝐨𝐥𝐬
 <p>
   <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-00758F?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -63,12 +63,14 @@
   <img src="https://img.shields.io/badge/Git-F38020?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+### 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭
 <p>
   <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-3483eb?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0c3b78?style=flat-square&logo=trello&logoColor=white" />
 </p>
 
+### 𝐈𝐥𝐥𝐮𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 & 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧
 <p>
   <img src="https://img.shields.io/badge/Krita-db46c2?style=flat-square&logo=krita&logoColor=white" />
   <img src="https://img.shields.io/badge/MediBangPaint-C71A36?style=flat-square&logo=medibangpaint&logoColor=white" />
