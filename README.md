@@ -67,6 +67,12 @@
   <img src="https://img.shields.io/badge/Jira-3483eb?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0c3b78?style=flat-square&logo=trello&logoColor=white" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Krita-db46c2?style=flat-square&logo=krita&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediBangPaint-C71A36?style=flat-square&logo=medibangpaint&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClipStudioPaint-181717?style=flat-square&logo=clipstudio&logoColor=white" />
+</p>
   <!-- Featured Project -->
   <table width="100%" border="0" cellpadding="8" cellspacing="0">
     <tr>
