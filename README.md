@@ -61,6 +61,7 @@
   <img src="https://img.shields.io/badge/GitLab-F38020?style=flat-square&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F38020?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache NetBeans IDE-6DB33F?style=flat-square&logo=apachenetbeanside&logoColor=white" />
 </p>
 
 ### 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭
