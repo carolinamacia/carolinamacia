@@ -45,11 +45,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 ### 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬
 <p>
+  <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-00758F?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
@@ -58,6 +59,13 @@
   <img src="https://img.shields.io/badge/SMTP%2FTLS-4285F4?style=flat-square&logo=gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-F38020?style=flat-square&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F38020?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-3483eb?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0c3b78?style=flat-square&logo=trello&logoColor=white" />
 </p>
   <!-- Featured Project -->
   <table width="100%" border="0" cellpadding="8" cellspacing="0">
